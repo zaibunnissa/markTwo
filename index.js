@@ -62,4 +62,5 @@ for (var i = 0; i < highScore.length; i++) {
   console.log(highScorer.name);
   console.log(highScorer.score);
 }
-console.log("If you have beaten the high score send screenshot");
+console.log("If you have beaten the high score share screenshot, we will update the High score.");
+console.log("Thank you");
